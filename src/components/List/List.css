@@ -1,0 +1,17 @@
+.btnAdd{
+width: 165px;
+height: 40px;
+background: #4159AF;
+border-radius: 5px;
+margin: 34px 56px;
+color:#FFFFFF;
+font-family: Font Awesome 5 Free;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+}
+
+.imgAdd{
+  margin-right: 5px;
+}
